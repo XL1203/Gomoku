@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Gomoku",
+  "description": "A classic Five-in-a-Row (Gomoku) game powered by Google's Gemini API for an intelligent opponent experience.",
+  "requestFramePermissions": []
+}
